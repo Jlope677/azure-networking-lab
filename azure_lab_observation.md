@@ -22,6 +22,15 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 <img width="1141" height="724" alt="vm parts1" src="https://github.com/user-attachments/assets/03c5ea5f-d7c8-4ed3-8a97-4d5019635cb0" />
 <img width="1920" height="756" alt="vm parts2" src="https://github.com/user-attachments/assets/203c342b-8b8a-41f9-bb44-3a78f486eac8" />
 <img width="1030" height="798" alt="vm part3 (Cyberlab123!)" src="https://github.com/user-attachments/assets/e41dfeea-b1c6-48cd-8766-df18ed517f30" />
+<img width="1294" height="720" alt="creating the virtual network" src="https://github.com/user-attachments/assets/b2780a2b-7f80-49f4-b0c0-9bed9289ccd5" />
+<img width="1233" height="811" alt="editing virtual network" src="https://github.com/user-attachments/assets/bd7ff862-20d2-4a29-92a1-4b392b13eddb" />
+<img width="1282" height="842" alt="after creating the virtual network" src="https://github.com/user-attachments/assets/725827dd-9eab-4111-8aaf-98656fdc9cb6" />
+
+
+
+
+
+
 
 
 
