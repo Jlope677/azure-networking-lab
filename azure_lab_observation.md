@@ -176,8 +176,8 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - In Wireshark, filtered for **DNS**.
 - Ran:
   ```powershell
-  nslookup google.com
   nslookup disney.com
+  nslookup pixar.com
   ```
 - Observed DNS queries and responses.
 <img width="1911" height="1031" alt="results dns" src="https://github.com/user-attachments/assets/513ac325-62b7-4a66-91c2-64f8956fbd0c" />
