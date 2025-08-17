@@ -33,6 +33,10 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 <img width="1306" height="720" alt="vm linux part 3(Cyberlab123!)" src="https://github.com/user-attachments/assets/0828c567-f7b4-4ac9-a6a3-a32246d979ab" />
 <img width="1124" height="863" alt="virtual network linux" src="https://github.com/user-attachments/assets/71ec498a-5519-495d-9d5e-923c89678e8f" />
 
+## VM created
+<img width="1578" height="568" alt="virtual machines" src="https://github.com/user-attachments/assets/7460d3df-856e-429c-bceb-311ba31ca9ec" />
+
+
 
 
 
