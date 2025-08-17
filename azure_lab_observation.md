@@ -25,6 +25,7 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 <img width="1294" height="720" alt="creating the virtual network" src="https://github.com/user-attachments/assets/b2780a2b-7f80-49f4-b0c0-9bed9289ccd5" />
 <img width="1233" height="811" alt="editing virtual network" src="https://github.com/user-attachments/assets/bd7ff862-20d2-4a29-92a1-4b392b13eddb" />
 <img width="1282" height="842" alt="after creating the virtual network" src="https://github.com/user-attachments/assets/725827dd-9eab-4111-8aaf-98656fdc9cb6" />
+<img width="1029" height="877" alt="after creating the virtual machine hit create" src="https://github.com/user-attachments/assets/7e7b7691-792c-4548-aace-a3f16c4afe43" />
 
 
 
