@@ -96,8 +96,8 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 
 ### What I Learned
 - ICMP packets are how devices communicate using **ping**.
-- Internal vs. external traffic looks different in Wireshark.
-- Pings confirm whether devices are reachable across a network.
+- How to filter for ICMP traffic on Wireshark.
+- Some parts of the ICMP packet
 
 ---
 
@@ -108,8 +108,14 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - Disabled **inbound ICMP traffic** in the Ubuntu VM’s **Network Security Group (NSG)**.
 - Observed in Wireshark that ICMP stopped responding.
 - Re-enabled ICMP, and pings started working again.
+<img width="1876" height="617" alt="linux vm networking" src="https://github.com/user-attachments/assets/46ab2feb-84b1-4e3a-9293-9237ea359a71" />
+<img width="1738" height="941" alt="-t" src="https://github.com/user-attachments/assets/fafb2c0c-5041-41d0-87a6-861af1e2e5a7" />
+<img width="1919" height="831" alt="inbound security rules" src="https://github.com/user-attachments/assets/dd2b3e49-1d0a-4afc-a62a-69944aecf0bb" />
+<img width="734" height="771" alt="inbound security rules add2" src="https://github.com/user-attachments/assets/c773cf96-6b2d-4738-905b-7c2d94f4d144" />
+<img width="1920" height="925" alt="inbound security rules add" src="https://github.com/user-attachments/assets/d7131e7b-e726-41ad-9ca6-b1a3e1491f10" />
 
-📸 _[Insert screenshot of blocked ICMP traffic here]_
+
+
 
 #### What I Learned
 - How **firewall rules** directly affect traffic.
