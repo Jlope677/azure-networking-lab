@@ -148,7 +148,7 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - Logged into Ubuntu and ran basic commands.
 - Observed **encrypted SSH packets** in Wireshark.
 
-📸 _[Insert screenshot of SSH traffic here]_
+
 
 #### What I Learned
 - SSH encrypts communication (you can’t read commands in Wireshark, just see encrypted packets).
@@ -164,7 +164,7 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
   ```
 - Observed DHCP negotiation process.
 
-📸 _[Insert screenshot of DHCP traffic here]_
+
 
 #### What I Learned
 - DHCP assigns IPs dynamically.
@@ -180,8 +180,11 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
   nslookup disney.com
   ```
 - Observed DNS queries and responses.
+<img width="1911" height="1031" alt="results dns" src="https://github.com/user-attachments/assets/513ac325-62b7-4a66-91c2-64f8956fbd0c" />
+<img width="1874" height="1012" alt="dns results" src="https://github.com/user-attachments/assets/328dc46d-5b21-4496-8d20-cf4d84982424" />
 
-📸 _[Insert screenshot of DNS traffic here]_
+
+
 
 #### What I Learned
 - DNS resolves domain names into IPs.
@@ -195,12 +198,12 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
   tcp.port == 3389
   ```
 - Saw **constant RDP traffic spam** while connected via Remote Desktop.
+<img width="1918" height="1009" alt="rdp traffic" src="https://github.com/user-attachments/assets/2af06693-eb1a-44ca-8ad5-e62ae5c18b5a" />
 
-📸 _[Insert screenshot of RDP traffic here]_
 
 #### What I Learned
 - RDP constantly streams desktop updates, so it generates **non-stop traffic**.
-- It’s not just when you type or click—everything is live-streamed.
+- It’s not just when you type or click everything is live-streamed.
 
 ---
 
@@ -209,7 +212,10 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - Deleted the **Resource Group** in Azure.
 - Verified all resources were deleted.
 
-📸 _[Insert screenshot of Resource Group deletion here]_
+<img width="1920" height="939" alt="deleting our stuff" src="https://github.com/user-attachments/assets/25d25258-8c31-4c7f-94b9-93781c2f8a3a" />
+<img width="755" height="891" alt="deleting our stuff2" src="https://github.com/user-attachments/assets/90286a1c-45f6-4f5d-a3a1-c17604562a51" />
+
+
 
 ### Final Reflection
 This lab helped me:
