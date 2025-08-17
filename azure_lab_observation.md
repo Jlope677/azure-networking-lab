@@ -16,6 +16,7 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 # Resoure Group
 <img width="1920" height="924" alt="creating resource group" src="https://github.com/user-attachments/assets/e79600fb-6bcc-44c4-81a7-eb13101d5075" />
 <img width="1917" height="765" alt="resource group created" src="https://github.com/user-attachments/assets/df62de33-8f29-45dd-86f0-4f9034231deb" />
+
 # Windows VM
 <img width="1907" height="884" alt="virtual machine" src="https://github.com/user-attachments/assets/32f95030-4258-42fa-936b-552ab0598837" />
 <img width="1141" height="724" alt="vm parts1" src="https://github.com/user-attachments/assets/03c5ea5f-d7c8-4ed3-8a97-4d5019635cb0" />
