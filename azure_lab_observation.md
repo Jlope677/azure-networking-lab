@@ -110,8 +110,8 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - Re-enabled ICMP, and pings started working again.
 <img width="1738" height="941" alt="-t" src="https://github.com/user-attachments/assets/b2cbf8d2-a922-4ba9-8555-422546bd0d69" />
 <img width="1876" height="617" alt="linux vm networking" src="https://github.com/user-attachments/assets/58535d39-cc00-4f99-a24f-c38a70ec3177" />
-<img width="1920" height="925" alt="inbound security rules add" src="https://github.com/user-attachments/assets/327e6583-b023-48c3-ac14-61ef55512fd1" />
 <img width="1919" height="831" alt="inbound security rules" src="https://github.com/user-attachments/assets/6b248eb6-ff27-45b2-86b8-0996a6774ee1" />
+<img width="1920" height="925" alt="inbound security rules add" src="https://github.com/user-attachments/assets/327e6583-b023-48c3-ac14-61ef55512fd1" />
 <img width="734" height="771" alt="inbound security rules add2" src="https://github.com/user-attachments/assets/83f99541-dee4-447c-8d6f-741c838191c6" />
 <img width="1916" height="704" alt="rule added icmp" src="https://github.com/user-attachments/assets/daedd26a-501d-4d52-9329-f6e582be9e5b" />
 <img width="1459" height="722" alt="affect of the rule" src="https://github.com/user-attachments/assets/fa16484a-a13b-459d-832e-aacd862fca26" />
