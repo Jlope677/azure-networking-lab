@@ -33,7 +33,7 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 <img width="1306" height="720" alt="vm linux part 3(Cyberlab123!)" src="https://github.com/user-attachments/assets/0828c567-f7b4-4ac9-a6a3-a32246d979ab" />
 <img width="1124" height="863" alt="virtual network linux" src="https://github.com/user-attachments/assets/71ec498a-5519-495d-9d5e-923c89678e8f" />
 
-## VM created
+## Virtual Machines
 <img width="1578" height="568" alt="virtual machines" src="https://github.com/user-attachments/assets/7460d3df-856e-429c-bceb-311ba31ca9ec" />
 
 
@@ -68,9 +68,31 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
 - Started a packet capture and applied a filter for **ICMP traffic**.
 - Retrieved the **private IP address** of my Ubuntu VM and pinged it from the Windows VM.
 - Observed ICMP **requests and replies** in Wireshark.
-- Also pinged a **public website (google.com)** to observe external ICMP traffic.
+<img width="1866" height="961" alt="connecting to windows vm" src="https://github.com/user-attachments/assets/874feb56-465d-4023-9472-0757424b8e92" />
+<img width="578" height="607" alt="wvm cred" src="https://github.com/user-attachments/assets/40598c33-918b-4247-bac9-d8fb17d8abaf" />
+<img width="1549" height="944" alt="inital config wvm" src="https://github.com/user-attachments/assets/b7fc4b7f-e2e9-4999-ad0b-0fd75cf1039d" />
+<img width="1671" height="561" alt="wireshark installation" src="https://github.com/user-attachments/assets/f135391b-be54-4aa0-b1fe-5185ed15e485" />
+<img width="786" height="582" alt="wireshark1" src="https://github.com/user-attachments/assets/e9969631-5335-4583-b38f-f96a6708828a" />
+<img width="956" height="769" alt="wireshark use" src="https://github.com/user-attachments/assets/661a050f-e29f-438c-8d59-07fed51fd8bd" />
+<img width="1721" height="1012" alt="filter for icmp" src="https://github.com/user-attachments/assets/daca4f71-bf9e-49e3-a89c-cb0041bb7513" />
+<img width="1883" height="889" alt="get the linux private ip address" src="https://github.com/user-attachments/assets/54599dae-2993-459f-bce9-fe22a7a453b4" />
+<img width="1588" height="500" alt="ping the linux virtual machine private ip" src="https://github.com/user-attachments/assets/984919d4-6afa-4609-8fad-57dde095837a" />
+<img width="1746" height="574" alt="icmp traffic" src="https://github.com/user-attachments/assets/c7fb3351-af48-42fd-8d98-58e192b899dc" />
+<img width="1756" height="907" alt="inspecting packet" src="https://github.com/user-attachments/assets/9b0aadd9-c7fe-4a83-9dc6-529bcece1d8d" />
+<img width="982" height="449" alt="inspecting packet2" src="https://github.com/user-attachments/assets/5388c4a2-1b1d-4f99-ae7f-29969e1e0335" />
 
-📸 _[Insert screenshot of Wireshark ICMP capture here]_
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### What I Learned
 - ICMP packets are how devices communicate using **ping**.
