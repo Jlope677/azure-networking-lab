@@ -147,6 +147,16 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
   ```
 - Logged into Ubuntu and ran basic commands.
 - Observed **encrypted SSH packets** in Wireshark.
+<img width="1840" height="598" alt="filter for ssh" src="https://github.com/user-attachments/assets/af7b3fd7-3c5c-49e2-86f8-5dd0b885a47c" />
+<img width="1899" height="1017" alt="result of ssh" src="https://github.com/user-attachments/assets/2496869f-721a-4eaf-8a9b-df68fc3e012a" />
+<img width="895" height="270" alt="commands on linux" src="https://github.com/user-attachments/assets/b6196251-2c35-401c-a832-0c8b869285d9" />
+<img width="1213" height="831" alt="ssh transmission ports" src="https://github.com/user-attachments/assets/8339284b-5386-439e-be86-1dd93358dabf" />
+<img width="1889" height="944" alt="ssh traffic is encypted" src="https://github.com/user-attachments/assets/cde4f219-ec17-4bd3-91a2-3305724ac994" />
+<img width="1919" height="1015" alt="ssh closed" src="https://github.com/user-attachments/assets/d09184b0-468d-487b-8a6c-04a46f43fbc4" />
+
+
+
+
 
 
 
@@ -163,6 +173,17 @@ In this lab, I set up virtual machines in Microsoft Azure, observed different ty
   ipconfig /renew
   ```
 - Observed DHCP negotiation process.
+
+<img width="1615" height="995" alt="script dhcp1" src="https://github.com/user-attachments/assets/15300c1a-8085-4df5-9bdc-b280533e7c73" />
+<img width="1445" height="764" alt="dhcp script2" src="https://github.com/user-attachments/assets/9a6088cc-5777-448a-ad3a-981bc7acbcbc" />
+<img width="1894" height="990" alt="running script" src="https://github.com/user-attachments/assets/5fe5bb06-e490-4178-8e44-fb179509eab6" />
+<img width="1898" height="994" alt="results of dhcp script" src="https://github.com/user-attachments/assets/8d85718b-e972-430b-acf6-8f1823c71e0c" />
+<img width="1919" height="1010" alt="script dhcp results" src="https://github.com/user-attachments/assets/cd791c8f-3132-47d0-9f3a-45761a4bbd41" />
+
+
+
+
+
 
 
 
